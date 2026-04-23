@@ -1,1 +1,67 @@
-{"3875213741": {"dni": "", "password": "159", "nombre": "", "cuit": "20417517627", "categoria": "A", "actividad": "", "direccion": "", "provincia": "", "cp": "", "veps": []}, "41751762": {"password": "159357", "celular": "", "nombre": "", "cuit": "", "categoria": "A", "actividad": "", "direccion": "", "provincia": "", "cp": "", "veps": []}}
+{
+    "3875213741": {
+        "dni": "",
+        "password": "159",
+        "nombre": "",
+        "cuit": "20417517627",
+        "categoria": "A",
+        "actividad": "",
+        "direccion": "",
+        "provincia": "",
+        "cp": "",
+        "veps": [],
+        "tipo_actividad": "Servicios",
+        "ventas_mes": 0.0,
+        "compras_mes": 0.0,
+        "gastos_mes": 0.0
+    },
+    "41751762": {
+        "password": "159357",
+        "celular": "",
+        "nombre": "",
+        "cuit": "",
+        "categoria": "A",
+        "actividad": "",
+        "direccion": "",
+        "provincia": "",
+        "cp": "",
+        "veps": [],
+        "dni": "",
+        "tipo_actividad": "Servicios",
+        "ventas_mes": 0.0,
+        "compras_mes": 0.0,
+        "gastos_mes": 0.0
+    },
+    "387512974": {
+        "dni": "41751762",
+        "password": "ba723435a66e490530c3efdfeac868e06fde6e35dcc43fa8528fb1b2c9411ef5",
+        "nombre": "Emiliano Taritolay",
+        "cuit": "2017517627",
+        "categoria": "A",
+        "actividad": "servicios digitales",
+        "tipo_actividad": "Servicios",
+        "direccion": "diaz velez 462",
+        "provincia": "salta",
+        "cp": "4400",
+        "veps": [],
+        "ventas_mes": 878000.0,
+        "compras_mes": 527240.0,
+        "gastos_mes": 30000.0
+    },
+    "3875512974": {
+        "dni": "41751762",
+        "password": "eb06474d9667ebc27c700e781f6a694c0432af3253705740459b2ac3c2438749",
+        "nombre": "Emiliano Taritolay",
+        "cuit": "20417517627",
+        "categoria": "A",
+        "actividad": "Venta de Zapatillas",
+        "tipo_actividad": "Servicios",
+        "direccion": "Diaz Vlez 462",
+        "provincia": "Salta",
+        "cp": "4400",
+        "veps": [],
+        "ventas_mes": 0.0,
+        "compras_mes": 0.0,
+        "gastos_mes": 0.0
+    }
+}
